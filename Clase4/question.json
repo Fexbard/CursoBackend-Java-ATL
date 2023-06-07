@@ -1,0 +1,7 @@
+{
+  "category": "Tecnology",
+  "question": "¿Cuál es el valor de un nano?",
+  "options": ["10**-9", "20**9", "10**9"],
+  "answer": 0,
+  "explanation": "El valor del nano es chiquito."
+}
